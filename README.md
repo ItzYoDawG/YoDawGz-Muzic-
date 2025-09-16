@@ -1,5 +1,9 @@
 # 🎶 YoDawGz Muzic – Discord Music Bot
 
+A feature-packed Discord music bot with YouTube & Spotify support, queues, sound filters, and lyrics.  
+
+👉 [**Invite YoDawGz Muzic to your server**](https://discord.com/oauth2/authorize?client_id=1417303516950560788)
+
 This repository contains the **Terms of Service** and **Privacy Policy** for the Discord bot **YoDawGz Muzic**.  
 These documents are required for Discord bot verification and are provided publicly for transparency.
 
