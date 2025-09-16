@@ -14,7 +14,7 @@ Here you’ll find our Terms of Service and Privacy Policy, required for Discord
 ## ℹ️ About YoDawGz Muzic
 **YoDawGz Muzic** is a feature-packed Discord bot that brings music to your server with:  
 - 🎵 YouTube & Spotify playback  
-- 📜 Queue management (play, skip, shuffle, loop)  
+- 📜 Queue management (Play, Skip, Shuffle, Loop)
 - 🎛️ Volume control & audio filters   
 - 💾 Save/load queues  
 
