@@ -8,7 +8,7 @@ Here you’ll find the invitation link along with our Terms of Service and Priva
 A feature-packed Discord music bot with YouTube & Spotify support, queues, sound filters, and lyrics.  
 
 👉 [**Invite YoDawGz Muzic to your server**](https://discord.com/oauth2/authorize?client_id=1417303516950560788)
----
+
 
 ## 📜 Documents
 - [📜 Terms of Service](./Terms%20of%20Service.md)  
