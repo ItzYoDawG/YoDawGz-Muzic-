@@ -1,4 +1,4 @@
-# 🎶 YoDawGz Muzic – Legal Documents
+# 🎶 YoDawGz Muzic – Discord Music Bot
 
 This repository contains the **Terms of Service** and **Privacy Policy** for the Discord bot **YoDawGz Muzic**.  
 These documents are required for Discord bot verification and are provided publicly for transparency.
