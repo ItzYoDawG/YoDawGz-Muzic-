@@ -13,10 +13,9 @@ These documents are required for Discord bot verification and are provided publi
 
 ## ℹ️ About YoDawGz Muzic
 **YoDawGz Muzic** is a feature-rich Discord music bot that allows users to:  
-- 🎵 Play music from YouTube & Spotify  
-- 📜 Manage queues (play, skip, shuffle, loop)  
+- 🎵 Play music from YouTube & Spotify (Songs, Albums, Playlists)
+- 📜 Manage queues (Play, Skip, Shuffle, Loop)  
 - 🎛️ Adjust volume & apply filters  
-- 🎤 Fetch lyrics for songs  
 - 💾 Save & load queues  
 
 ---
