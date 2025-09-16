@@ -1,12 +1,7 @@
 # 🎶 YoDawGz Muzic – Index
 
 Welcome to the legal documents for **YoDawGz Muzic** 🎧  
-Here you’ll find the invitation link along with our Terms of Service and Privacy Policy, required for Discord bot verification and transparency.  
-
-## ✉️ Invitation Link
-
-[**YoDawGz Muzic**](https://discord.com/oauth2/authorize?client_id=1417303516950560788)
-
+Here you’ll our Terms of Service and Privacy Policy, required for Discord bot verification and transparency.  
 
 ## 📜 Documents
 - [📜 Terms of Service](./Terms%20of%20Service.md)  
