@@ -15,7 +15,7 @@ By adding the Bot to a Discord server or interacting with it, you agree to these
 ---
 
 ## 🎵 2. Intended Use
-The Bot is designed for **music playback and entertainment** within Discord servers.  
+"YoDawGz Muzic" is designed for **music playback and entertainment** within Discord servers.  
 You agree not to misuse the Bot, including (but not limited to):
 
 - ❌ Using it for illegal activity  
@@ -36,7 +36,7 @@ We are **not responsible** for any damages, losses, or disputes that may arise f
 ---
 
 ## 📬 5. Contact
-For support or questions, reach us at:  
+For support or questions, reach me at:  
 
 - **Email:** xitzyodawgx@gmail.com  
 - **Discord:** itzyodawg  
