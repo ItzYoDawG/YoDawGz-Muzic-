@@ -2,11 +2,11 @@
 
 *Last updated: September 15th, 2025*
 
-This Privacy Policy explains how **YoDawGz Muzic** (“the Bot”) handles your data.
+This Privacy Policy explains how the music bot (“**YoDawGz Muzic**”) handles your data.
 
 ---
 
-## 📋 1. Data We Collect
+## 📋 1. Data The Bot Collects
 The Bot only processes the data necessary for its core functions:
 
 - 🆔 Discord user IDs, server IDs, and channel IDs (for command execution)  
@@ -34,7 +34,7 @@ Because no long-term data is stored, no user data can be exported or deleted upo
 ---
 
 ## 📬 5. Contact
-For questions or privacy concerns, contact us at:  
+For questions or privacy concerns, contact me at:  
 
 - **Email:** xitzyodawgx@gmail.com  
 - **Discord:** itzyodawg  
