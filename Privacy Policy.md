@@ -34,7 +34,7 @@ Because no long-term data is stored, no user data can be exported or deleted upo
 ---
 
 ## 📬 5. Contact
-For questions or privacy concerns, contact me at:  
+For questions or privacy concerns: 
 
 - **Email:** xitzyodawgx@gmail.com  
 - **Discord:** itzyodawg  
