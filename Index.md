@@ -16,7 +16,7 @@ Here you’ll find our Terms of Service and Privacy Policy, required for Discord
 - 🎵 YouTube & Spotify playback  
 - 📜 Queue management (Play, Skip, Shuffle, Loop)
 - 🎛️ Volume control & audio filters
-- 🎤 Fetch lyrics for songs  
+- 🎤 Obtain lyrics from songs  
 - 💾 Save/load queues
 
 
