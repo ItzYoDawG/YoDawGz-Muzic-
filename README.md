@@ -1,4 +1,5 @@
 # 🎶 YoDawGz Muzic – Discord Music Bot
+## ✉️ Invitation Link
 
 A feature-packed Discord music bot with YouTube & Spotify support, queues, sound filters, and lyrics.  
 
