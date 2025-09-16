@@ -1,4 +1,4 @@
-# 🎶 YoDawGz Muzic – Legal Hub
+# 🎶 YoDawGz Muzic – Index
 
 Welcome to the legal documents for **YoDawGz Muzic** 🎧  
 Here you’ll find our Terms of Service and Privacy Policy, required for Discord bot verification and transparency.  
@@ -15,8 +15,7 @@ Here you’ll find our Terms of Service and Privacy Policy, required for Discord
 **YoDawGz Muzic** is a feature-packed Discord bot that brings music to your server with:  
 - 🎵 YouTube & Spotify playback  
 - 📜 Queue management (play, skip, shuffle, loop)  
-- 🎛️ Volume control & audio filters  
-- 🎤 Lyrics lookup  
+- 🎛️ Volume control & audio filters   
 - 💾 Save/load queues  
 
 ---
