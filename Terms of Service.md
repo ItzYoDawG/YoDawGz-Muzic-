@@ -36,7 +36,7 @@ We are **not responsible** for any damages, losses, or disputes that may arise f
 ---
 
 ## 📬 5. Contact
-For support or questions, reach me at:  
+For support or questions:
 
 - **Email:** xitzyodawgx@gmail.com  
 - **Discord:** itzyodawg  
